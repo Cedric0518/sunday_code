@@ -4,4 +4,4 @@
 // Function prototype
 int* sort_array(int* arr, int size);
 
-#endif // ARRAY_SORT_H
+#endif
